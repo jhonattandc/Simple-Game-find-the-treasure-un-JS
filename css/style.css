@@ -1,0 +1,13 @@
+body {
+    background-color:#6B605C ;
+    color: blanchedalmond;
+    height: 100%;
+    padding: 0px;
+    margin: 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+
+}
